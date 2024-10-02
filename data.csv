@@ -1,0 +1,501 @@
+Rank,Title,Employees,Sector,Industry,Hqlocation,Hqcity,Hqtel,Ceo,Revenues,Profits,Assets,Totshequity
+1,Walmart,2300000,Retailing,General Merchandisers,"Bentonville, AR",Bentonville,479-273-4000,C. Douglas McMillon,485873,13643,198825,77798
+2,Berkshire Hathaway,367700,Financials,Insurance: Property and Casualty (Stock),"Omaha, NE",Omaha,402-346-1400,Warren E. Buffett,223604,24074,620854,283001
+3,Apple,116000,Technology,"Computers, Office Equipment","Cupertino, CA",Cupertino,408-996-1010,Timothy D. Cook,215639,45687,321686,128249
+4,Exxon Mobil,72700,Energy,Petroleum Refining,"Irving, TX",Irving,972-444-1000,Darren W. Woods,205004,7840,330314,167325
+5,McKesson,68000,Wholesalers,Wholesalers: Health Care,"San Francisco, CA",San Francisco,415-983-8300,John H. Hammergren,192487,2258,56563,8924
+6,UnitedHealth Group,230000,Health Care,Health Care: Insurance and Managed Care,"Minnetonka, MN",Minnetonka,952-936-1300,Stephen J. Hemsley,184840,7017,122810,38274
+7,CVS Health,204000,Health Care,Health Care: Pharmacy and Other Services,"Woonsocket, RI",Woonsocket,401-765-1500,Larry J. Merlo,177526,5317,94462,36830
+8,General Motors,225000,Motor Vehicles & Parts,Motor Vehicles and Parts,"Detroit, MI",Detroit,313-556-5000,Mary T. Barra,166380,9427,221690,43836
+9,AT&T,268540,Telecommunications,Telecommunications,"Dallas, TX",Dallas,210-821-4105,Randall L. Stephenson,163786,12976,403821,123135
+10,Ford Motor,201000,Motor Vehicles & Parts,Motor Vehicles and Parts,"Dearborn, MI",Dearborn,313-322-3000,James P. Hackett,151800,4596,237951,29170
+11,AmerisourceBergen,18500,Wholesalers,Wholesalers: Health Care,"Chesterbrook, PA",Chesterbrook,610-727-7000,Steven H. Collis,146850,1427.9,33656,2129
+12,Amazon.com,341400,Technology,Internet Services and Retailing,"Seattle, WA",Seattle,206-266-1000,Jeffrey P. Bezos,135987,2371,83402,19285
+13,General Electric,295000,Industrials,Industrial Machinery,"Boston, MA",Boston,617-443-3000,Jeffrey R. Immelt,126661,8831,365183,75828
+14,Verizon,160900,Telecommunications,Telecommunications,"New York, NY",New York,212-395-1000,Lowell C. McAdam,125980,13127,244180,22524
+15,Cardinal Health,37300,Wholesalers,Wholesalers: Health Care,"Dublin, OH",Dublin,614-757-5000,George S. Barrett,121546,1427,34122,6554
+16,Costco,172000,Retailing,General Merchandisers,"Issaquah, WA",Issaquah,425-313-8100,W. Craig Jelinek,118719,2350,33163,12079
+17,Walgreens Boots Alliance,300000,Food & Drug Stores,Food and Drug Stores,"Deerfield, IL",Deerfield,847-315-2500,Stefano Pessina,117351,4173,72688,29880
+18,Kroger,443000,Food & Drug Stores,Food and Drug Stores,"Cincinnati, OH",Cincinnati,513-762-4000,W. Rodney McMullen,115337,1975,36505,6698
+19,Chevron,55200,Energy,Petroleum Refining,"San Ramon, CA",San Ramon,925-842-1000,John S. Watson,107567,-497,260078,145556
+20,Fannie Mae,7000,Financials,Diversified Financials,"Washington, DC",Washington,800-232-6643,Timothy J. Mayopoulos,107162,12313,3287968,6071
+21,J.P. Morgan Chase,243355,Financials,Commercial Banks,"New York, NY",New York,212-270-6000,James Dimon,105486,24733,2490972,254190
+22,Express Scripts Holding,25600,Health Care,Health Care: Pharmacy and Other Services,"St. Louis, MO",St. Louis,314-996-0900,Timothy C. Wentworth,100288,3404.4,51745,16236
+23,Home Depot,406000,Retailing,Specialty Retailers: Other,"Atlanta, GA",Atlanta,770-433-8211,Craig A. Menear,94595,7957,42966,4333
+24,Boeing,150540,Aerospace & Defense,Aerospace and Defense,"Chicago, IL",Chicago,312-544-2000,Dennis A. Muilenburg,94571,4895,89997,817
+25,Wells Fargo,269100,Financials,Commercial Banks,"San Francisco, CA",San Francisco,866-878-5865,Timothy J. Sloan,94176,21938,1930115,199581
+26,Bank of America Corp.,208024,Financials,Commercial Banks,"Charlotte, NC",Charlotte,704-386-5681,Brian T. Moynihan,93662,17906,2187702,266840
+27,Alphabet,72053,Technology,Internet Services and Retailing,"Mountain View, CA",Mountain View,650-253-0000,Larry Page,90272,19478,167497,139036
+28,Microsoft,114000,Technology,Computer Software,"Redmond, WA",Redmond,425-882-8080,Satya Nadella,85320,16798,193694,71997
+29,Anthem,53000,Health Care,Health Care: Insurance and Managed Care,"Indianapolis, IN",Indianapolis,317-488-6000,Joseph R. Swedish,84863,2469.8,65083,25100
+30,Citigroup,219000,Financials,Commercial Banks,"New York, NY",New York,212-559-1000,Michael L. Corbat,82386,14912,1792077,225120
+31,Comcast,159000,Telecommunications,Telecommunications,"Philadelphia, PA",Philadelphia,215-286-1700,Brian L. Roberts,80403,8695,180500,53943
+32,IBM,414400,Technology,Information Technology Services,"Armonk, NY",Armonk,914-499-1900,Virginia M. Rometty,79919,11872,117470,18246
+33,State Farm Insurance Cos.,68234,Financials,Insurance: Property and Casualty (Mutual),"Bloomington, IL",Bloomington,309-766-2311,Michael L. Tipsord,76132,350.3,256030,87592
+34,Phillips 66,14800,Energy,Petroleum Refining,"Houston, TX",Houston,281-293-6600,Greg C. Garland,72396,1555,51653,22390
+35,Johnson & Johnson,126400,Health Care,Pharmaceuticals,"New Brunswick, NJ",New Brunswick,732-524-0400,Alex Gorsky,71890,16540,141208,70418
+36,Procter & Gamble,105000,Household Products,Household and Personal Products,"Cincinnati, OH",Cincinnati,513-983-1100,David S. Taylor,71726,10508,127136,57341
+37,Valero Energy,9996,Energy,Petroleum Refining,"San Antonio, TX",San Antonio,210-345-2000,Joseph W. Gorder,70166,2289,46173,20024
+38,Target,323000,Retailing,General Merchandisers,"Minneapolis, MN",Minneapolis,612-304-6073,Brian C. Cornell,69495,2737,37431,10953
+39,Freddie Mac,5982,Financials,Diversified Financials,"McLean, VA",McLean,703-903-2000,Donald H. Layton,65665,7815,2023376,5075
+40,Lowe’s,240000,Retailing,Specialty Retailers: Other,"Mooresville, NC",Mooresville,704-758-1000,Robert A. Niblock,65017,3093,34408,6434
+41,Dell Technologies,138000,Technology,"Computers, Office Equipment","Round Rock, TX",Round Rock,800-289-3355,Michael S. Dell,64806,-1672,118206,13243
+42,MetLife,58000,Financials,"Insurance: Life, Health (Stock)","New York, NY",New York,212-578-2211,Steven A. Kandarian,63476,800,898764,67309
+43,Aetna,49500,Health Care,Health Care: Insurance and Managed Care,"Hartford, CT",Hartford,860-273-0123,Mark T. Bertolini,63155,2271,69146,17881
+44,PepsiCo,264000,"Food, Beverages & Tobacco",Food Consumer Products,"Purchase, NY",Purchase,914-253-2000,Indra K. Nooyi,62799,6329,74129,11095
+45,Archer Daniels Midland,31800,"Food, Beverages & Tobacco",Food Production,"Chicago, IL",Chicago,312-634-8100,Juan R. Luciano,62346,1279,39769,17173
+46,UPS,335520,Transportation,"Mail, Package, and Freight Delivery","Atlanta, GA",Atlanta,404-828-6000,David P. Abney,60906,3431,40377,405
+47,Intel,106000,Technology,Semiconductors and Other Electronic Components,"Santa Clara, CA",Santa Clara,408-765-8080,Brian M. Krzanich,59387,10316,113327,66226
+48,Prudential Financial,49739,Financials,"Insurance: Life, Health (Stock)","Newark, NJ",Newark,973-802-6000,John R. Strangfeld,58779,4368,783962,45863
+49,Albertsons Cos.,274000,Food & Drug Stores,Food and Drug Stores,"Boise, ID",Boise,208-395-6200,Robert G. Miller,58734,-502.2,23770,1613
+50,United Technologies,201600,Aerospace & Defense,Aerospace and Defense,"Farmington, CT",Farmington,860-728-7000,Gregory J. Hayes,57244,5055,89706,27579
+51,Marathon Petroleum,44460,Energy,Petroleum Refining,"Findlay, OH",Findlay,419-422-2121,Gary R. Heminger,55858,1174,44413,13557
+52,Disney,195000,Media,Entertainment,"Burbank, CA",Burbank,818-560-1000,Robert A. Iger,55632,9391,92033,43265
+53,Humana,51600,Health Care,Health Care: Insurance and Managed Care,"Louisville, KY",Louisville,502-580-1000,Bruce D. Broussard,54379,614,25396,10685
+54,Pfizer,96500,Health Care,Pharmaceuticals,"New York, NY",New York,212-733-2323,Ian C. Read,52824,7215,171615,59544
+55,AIG,56400,Financials,Insurance: Property and Casualty (Stock),"New York, NY",New York,212-770-7000,Brian Duperreault,52367,-849,498264,76300
+56,Lockheed Martin,97000,Aerospace & Defense,Aerospace and Defense,"Bethesda, MD",Bethesda,301-897-6000,Marillyn A. Hewson,50658,5302,47806,1511
+57,Sysco,51900,Wholesalers,Wholesalers: Food and Grocery,"Houston, TX",Houston,281-584-1390,William J. DeLaney III,50367,949.6,16722,3480
+58,FedEx,335767,Transportation,"Mail, Package, and Freight Delivery","Memphis, TN",Memphis,901-818-7500,Frederick W. Smith,50365,1820,46064,13784
+59,Hewlett Packard Enterprise,195000,Technology,Information Technology Services,"Palo Alto, CA",Palo Alto,650-857-1501,Margaret C. Whitman,50123,3161,79679,31448
+60,Cisco Systems,73700,Technology,Network and Other Communications Equipment,"San Jose, CA",San Jose,408-526-4000,Charles H. Robbins,49247,10739,121652,63586
+61,HP,49000,Technology,"Computers, Office Equipment","Palo Alto, CA",Palo Alto,650-857-1501,Dion J. Weisler,48238,2496,29010,-3889
+62,Dow Chemical,56000,Chemicals,Chemicals,"Midland, MI",Midland,989-636-1000,Andrew N. Liveris,48158,4318,79511,25987
+63,HCA Holdings,210500,Health Care,Health Care: Medical Facilities,"Nashville, TN",Nashville,615-344-9551,R. Milton Johnson,44747,2890,33758,-7302
+64,Coca-Cola,100300,"Food, Beverages & Tobacco",Beverages,"Atlanta, GA",Atlanta,404-676-2121,James B. Quincey,41863,6527,87270,23062
+65,New York Life Insurance,11320,Financials,"Insurance: Life, Health (Mutual)","New York, NY",New York,212-576-7000,Theodore A. Mathas,40787,1088.1,287196,20108
+66,Centene,30500,Health Care,Health Care: Insurance and Managed Care,"St. Louis, MO",St. Louis,314-725-4477,Michael F. Neidorff,40721,562,20197,5895
+67,American Airlines Group,122300,Transportation,Airlines,"Fort Worth, TX",Fort Worth,817-963-1234,W. Douglas Parker,40180,2676,51274,3785
+68,Nationwide,34320,Financials,Insurance: Property and Casualty (Mutual),"Columbus, OH",Columbus,800-882-2822,Stephen S. Rasmussen,40074,334.3,197790,15537
+69,Merck,68000,Health Care,Pharmaceuticals,"Kenilworth, NJ",Kenilworth,908-740-4000,Kenneth C. Frazier,39807,3920,95377,40088
+70,Cigna,41000,Health Care,Health Care: Insurance and Managed Care,"Bloomfield, CT",Bloomfield,860-226-6000,David M. Cordani,39668,1867,59360,13723
+71,Delta Air Lines,83756,Transportation,Airlines,"Atlanta, GA",Atlanta,404-715-2600,Edward H. Bastian,39639,4373,51261,12287
+72,Best Buy,125000,Retailing,Specialty Retailers: Other,"Richfield, MN",Richfield,612-291-1000,Hubert B. Joly,39403,1228,13856,4709
+73,Honeywell International,131000,Industrials,"Electronics, Electrical Equipment","Morris Plains, NJ",Morris Plains,973-455-2000,Darius Adamczyk,39302,4809,54146,19369
+74,Caterpillar,95400,Industrials,Construction and Farm Machinery,"Peoria, IL",Peoria,309-675-1000,D. James Umpleby III,38537,-67,74704,13137
+75,Liberty Mutual Insurance Group,50000,Financials,Insurance: Property and Casualty (Stock),"Boston, MA",Boston,617-357-9500,David H. Long,38308,1006,125592,20366
+76,Morgan Stanley,55311,Financials,Commercial Banks,"New York, NY",New York,212-761-4000,James P. Gorman,37949,5979,814949,76050
+77,Massachusetts Mutual Life Insurance,11737,Financials,"Insurance: Life, Health (Mutual)","Springfield, MA",Springfield,413-744-8411,Roger W. Crandall,37788,1273.5,271040,15424
+78,Goldman Sachs Group,34400,Financials,Commercial Banks,"New York, NY",New York,212-902-1000,Lloyd C. Blankfein,37712,7398,860165,86893
+79,Energy Transfer Equity,30992,Energy,Pipelines,"Dallas, TX",Dallas,214-981-0700,John W. McReynolds,37504,995,79011,-1694
+80,TIAA,12997,Financials,"Insurance: Life, Health (Mutual)","New York, NY",New York,212-490-9000,Roger W. Ferguson Jr.,37105,1492.3,523194,35583
+81,Oracle,136000,Technology,Computer Software,"Redwood City, CA",Redwood City,650-506-7000,"Safra A. Catz, Mark V. Hurd",37047,8901,112180,47289
+82,Tyson Foods,114000,"Food, Beverages & Tobacco",Food Production,"Springdale, AR",Springdale,479-290-4000,Thomas P. Hayes,36881,1768,22373,9608
+83,United Continental Holdings,88000,Transportation,Airlines,"Chicago, IL",Chicago,872-825-4000,Oscar Munoz,36556,2263,40140,8659
+84,Allstate,43275,Financials,Insurance: Property and Casualty (Stock),"Northbrook, IL",Northbrook,847-402-5000,Thomas J. Wilson,36534,1877,108610,20573
+85,Publix Super Markets,191000,Food & Drug Stores,Food and Drug Stores,"Lakeland, FL",Lakeland,863-688-1188,Randall T. Jones Sr.,34274,2025.7,17464,13473
+86,American Express,56400,Financials,Diversified Financials,"New York, NY",New York,212-640-2000,Kenneth I. Chenault,33823,5408,158893,20501
+87,TJX,235000,Retailing,Specialty Retailers: Apparel,"Framingham, MA",Framingham,508-390-1000,Ernie L. Herrman,33184,2298.2,12884,4511
+88,Nike,70700,Apparel,Apparel,"Beaverton, OR",Beaverton,503-671-6453,Mark G. Parker,32376,3760,21396,12258
+89,Exelon,34396,Energy,Utilities: Gas and Electric,"Chicago, IL",Chicago,800-483-3220,Christopher M. Crane,31360,1134,114904,25837
+90,General Dynamics,98800,Aerospace & Defense,Aerospace and Defense,"Falls Church, VA",Falls Church,703-876-3000,Phebe N. Novakovic,31353,2955,32872,10976
+91,Rite Aid,70580,Food & Drug Stores,Food and Drug Stores,"Camp Hill, PA",Camp Hill,717-761-2633,John T. Standley,30737,165.5,11277,581
+92,Gilead Sciences,9000,Health Care,Pharmaceuticals,"Foster City, CA",Foster City,650-574-3000,John F. Milligan,30390,13501,56977,18887
+93,CHS,12157,"Food, Beverages & Tobacco",Food Production,"Inver Grove Heights, MN",Inver Grove Heights,651-355-6000,Jay D. Debertin,30347,424.2,17318,7852
+94,3M,91584,Industrials,Miscellaneous,"St. Paul, MN",St. Paul,651-733-1110,Inge G. Thulin,30109,5050,32906,10298
+95,Time Warner,25000,Media,Entertainment,"New York, NY",New York,212-484-8000,Jeffrey L. Bewkes,29318,3926,65966,24335
+96,Charter Communications,91500,Telecommunications,Telecommunications,"Stamford, CT",Stamford,203-905-7800,Thomas M. Rutledge,29003,3522,149067,40139
+97,Northwestern Mutual,5646,Financials,"Insurance: Life, Health (Mutual)","Milwaukee, WI",Milwaukee,414-271-1444,John E. Schlifske,28799,818,250441,20226
+98,Facebook,17048,Technology,Internet Services and Retailing,"Menlo Park, CA",Menlo Park,650-543-4800,Mark Zuckerberg,27638,10217,64961,59194
+99,Travelers Cos.,30900,Financials,Insurance: Property and Casualty (Stock),"New York, NY",New York,917-778-6000,Alan D. Schnitzer,27625,3014,100245,23221
+100,Capital One Financial,47300,Financials,Commercial Banks,"McLean, VA",McLean,703-720-1000,Richard D. Fairbank,27519,3751,357033,47514
+101,Twenty-First Century Fox,21500,Media,Entertainment,"New York, NY",New York,212-852-7000,James R. Murdoch,27326,2755,48365,13661
+102,USAA,29943,Financials,Insurance: Property and Casualty (Stock),"San Antonio, TX",San Antonio,210-498-2211,Stuart Parker,27131,1779.1,147290,28840
+103,World Fuel Services,5000,Energy,Energy,"Miami, FL",Miami,305-428-8000,Michael J. Kasbar,27016,126.5,5413,1925
+104,Philip Morris International,79500,"Food, Beverages & Tobacco",Tobacco,"New York, NY",New York,917-663-2000,Andre Calantzopoulos,26685,6967,36851,-12688
+105,Deere,56767,Industrials,Construction and Farm Machinery,"Moline, IL",Moline,309-765-8000,Samuel R. Allen,26644,1523.9,57981,6520
+106,Kraft Heinz,41000,"Food, Beverages & Tobacco",Food Consumer Products,"Pittsburgh, PA",Pittsburgh,412-456-5700,Bernardo Hees,26487,3632,120480,57358
+107,Tech Data,9500,Wholesalers,Wholesalers: Electronics and Office Equipment,"Clearwater, FL",Clearwater,727-539-7429,Robert M. Dutkowsky,26235,195.1,7932,2170
+108,Avnet,17700,Wholesalers,Wholesalers: Electronics and Office Equipment,"Phoenix, AZ",Phoenix,480-643-2000,William J. Amelio,26219,506.5,11240,4691
+109,Mondelez International,90000,"Food, Beverages & Tobacco",Food Consumer Products,"Deerfield, IL",Deerfield,847-943-4000,Irene B. Rosenfeld,25923,1659,61538,25161
+110,Macy’s,148300,Retailing,General Merchandisers,"Cincinnati, OH",Cincinnati,513-579-7000,Jeffrey Gennette,25778,619,19851,4323
+111,AbbVie,30000,Health Care,Pharmaceuticals,"North Chicago, IL",North Chicago,847-932-7900,Richard A. Gonzalez,25638,5953,66099,4636
+112,McDonald’s,375000,"Hotels, Restaurants & Leisure",Food Services,"Oak Brook, IL",Oak Brook,630-623-3000,Stephen J. Easterbrook,24622,4686.5,31024,-2204
+113,DuPont,46000,Chemicals,Chemicals,"Wilmington, DE",Wilmington,302-774-1000,Edward D. Breen,24594,2513,39964,9998
+114,Northrop Grumman,67000,Aerospace & Defense,Aerospace and Defense,"Falls Church, VA",Falls Church,703-280-2900,Wesley G. Bush,24508,2200,25614,5259
+115,ConocoPhillips,13300,Energy,"Mining, Crude-Oil Production","Houston, TX",Houston,281-293-1000,Ryan M. Lance,24360,-3615,89772,34974
+116,Raytheon,63000,Aerospace & Defense,Aerospace and Defense,"Waltham, MA",Waltham,781-522-3000,Thomas A. Kennedy,24069,2211,30052,10066
+117,Tesoro,6308,Energy,Petroleum Refining,"San Antonio, TX",San Antonio,210-626-6000,Gregory J. Goff,24005,734,20398,5465
+118,Arrow Electronics,18700,Wholesalers,Wholesalers: Electronics and Office Equipment,"Centennial, CO",Centennial,303-824-4000,Michael J. Long,23825,522.8,14206,4413
+119,Qualcomm,30500,Technology,Semiconductors and Other Electronic Components,"San Diego, CA",San Diego,858-587-1121,Steven M. Mollenkopf,23554,5705,52359,31778
+120,Progressive,31721,Financials,Insurance: Property and Casualty (Stock),"Mayfield Village, OH",Mayfield Village,440-461-5000,Susan Patricia Griffith,23441,1031,33428,7957
+121,Duke Energy,28798,Energy,Utilities: Gas and Electric,"Charlotte, NC",Charlotte,704-382-3853,Lynn J. Good,23369,2152,132761,41033
+122,Enterprise Products Partners,6800,Energy,Pipelines,"Houston, TX",Houston,713-381-6500,A. James Teague,23022,2513.1,52194,22047
+123,Amgen,19200,Health Care,Pharmaceuticals,"Thousand Oaks, CA",Thousand Oaks,805-447-1000,Robert A. Bradway,22991,7722,77626,29875
+124,US Foods Holding,25000,Wholesalers,Wholesalers: Food and Grocery,"Rosemont, IL",Rosemont,847-720-8000,Pietro Satriano,22919,209.8,8945,2538
+125,U.S. Bancorp,71191,Financials,Commercial Banks,"Minneapolis, MN",Minneapolis,651-466-3000,Andrew J. Cecere,22744,5888,445964,47298
+126,Aflac,10212,Financials,"Insurance: Life, Health (Stock)","Columbus, GA",Columbus,706-323-3431,Daniel P. Amos,22559,2659,129819,20482
+127,Sears Holdings,140000,Retailing,General Merchandisers,"Hoffman Estates, IL",Hoffman Estates,847-286-2500,Edward S. Lampert,22138,-2221,9362,-3824
+128,Dollar General,121000,Retailing,Specialty Retailers: Other,"Goodlettsville, TN",Goodlettsville,615-855-4000,Todd J. Vasos,21987,1251.1,11672,5406
+129,AutoNation,26000,Retailing,"Automotive Retailing, Services","Fort Lauderdale, FL",Fort Lauderdale,954-769-6000,Michael J. Jackson,21609,430.5,10060,2310
+130,Community Health Systems,108000,Health Care,Health Care: Medical Facilities,"Franklin, TN",Franklin,615-465-7000,Wayne T. Smith,21374,-1721,21944,1615
+131,Starbucks,254000,"Hotels, Restaurants & Leisure",Food Services,"Seattle, WA",Seattle,206-447-1575,Keven R. Johnson,21316,2817.7,14330,5884
+132,Eli Lilly,41975,Health Care,Pharmaceuticals,"Indianapolis, IN",Indianapolis,317-276-2000,David A. Ricks,21222,2737.6,38806,14008
+133,International Paper,55000,Materials,"Packaging, Containers","Memphis, TN",Memphis,901-419-9000,Mark S. Sutton,21079,904,33345,4341
+134,Tenet Healthcare,116475,Health Care,Health Care: Medical Facilities,"Dallas, TX",Dallas,469-893-2200,Trevor Fetter,21070,-192,24701,417
+135,Abbott Laboratories,75000,Health Care,Medical Products and Equipment,"Abbott Park, IL",Abbott Park,224-667-6100,Miles D. White,20853,1400,52666,20538
+136,Dollar Tree,116050,Retailing,Specialty Retailers: Other,"Chesapeake, VA",Chesapeake,757-321-5000,Bob Sasser,20719,896.2,15702,5390
+137,Whirlpool,93000,Industrials,"Electronics, Electrical Equipment","Benton Harbor, MI",Benton Harbor,269-923-5000,Jeff M. Fettig,20718,888,19153,4773
+138,Southwest Airlines,53536,Transportation,Airlines,"Dallas, TX",Dallas,214-792-4000,Gary C. Kelly,20425,2244,23286,8441
+139,Emerson Electric,103500,Industrials,"Electronics, Electrical Equipment","St. Louis, MO",St. Louis,314-553-2000,David N. Farr,20268,1635,21743,7568
+140,Staples,61503,Retailing,Specialty Retailers: Other,"Framingham, MA",Framingham,508-253-5000,Shira D. Goodman,20217,-1497,8271,3688
+141,Plains GP Holdings,5100,Energy,Pipelines,"Houston, TX",Houston,713-646-4100,Greg L. Armstrong,20182,94,26103,1737
+142,Penske Automotive Group,24000,Retailing,"Automotive Retailing, Services","Bloomfield Hills, MI",Bloomfield Hills,248-648-2500,Roger S. Penske,20143,342.9,8861,1751
+143,Union Pacific,42919,Transportation,Railroads,"Omaha, NE",Omaha,402-544-5000,Lance M. Fritz,19941,4233,55718,19932
+144,Danaher,62000,Technology,"Scientific, Photographic and Control Equipment","Washington, DC",Washington,202-828-0850,Thomas P. Joyce Jr.,19912,2553.7,45295,23003
+145,Southern,32015,Energy,Utilities: Gas and Electric,"Atlanta, GA",Atlanta,404-506-5000,Thomas A. Fanning,19896,2448,109697,24758
+146,ManpowerGroup,28000,Business Services,Temporary Help,"Milwaukee, WI",Milwaukee,414-961-1000,Jonas Prising,19654,443.7,7574,2362
+147,Bristol-Myers Squibb,25000,Health Care,Pharmaceuticals,"New York, NY",New York,212-546-4000,Giovanni Caforio,19427,4457,33707,16177
+148,Altria Group,8300,"Food, Beverages & Tobacco",Tobacco,"Richmond, VA",Richmond,804-274-2200,Martin J. Barrington,19337,14239,45932,12770
+149,Fluor,61551,Engineering & Construction,"Engineering, Construction","Irving, TX",Irving,469-398-7000,David T. Seaton,19037,281.4,9216,3125
+150,Kohl’s,85000,Retailing,General Merchandisers,"Menomonee Falls, WI",Menomonee Falls,262-703-7000,Kevin Mansell,18686,556,13574,5177
+151,Lear,148400,Motor Vehicles & Parts,Motor Vehicles and Parts,"Southfield, MI",Southfield,248-447-1500,Matthew J. Simoncini,18558,975.1,9901,3057
+152,Jabil Circuit,138000,Technology,Semiconductors and Other Electronic Components,"St. Petersburg, FL",St. Petersburg,727-577-9749,Mark T. Mondello,18353,254.1,10323,2438
+153,Hartford Financial Services Group,16900,Financials,Insurance: Property and Casualty (Stock),"Hartford, CT",Hartford,860-547-5000,Christopher J. Swift,18300,896,223432,16903
+154,Thermo Fisher Scientific,54800,Technology,"Scientific, Photographic and Control Equipment","Waltham, MA",Waltham,781-622-1000,Marc N. Casper,18274,2021.8,45908,21539
+155,Kimberly-Clark,42000,Household Products,Household and Personal Products,"Irving, TX",Irving,972-281-1200,Thomas J. Falk,18202,2166,14602,-102
+156,Molina Healthcare,21000,Health Care,Health Care: Insurance and Managed Care,"Long Beach, CA",Long Beach,562-435-3666,Jospeh W. White,17782,52,7449,1649
+157,PG&E Corp.,24000,Energy,Utilities: Gas and Electric,"San Francisco, CA",San Francisco,415-973-1000,Geisha J. Williams,17666,1393,68598,17940
+158,Supervalu,38000,Food & Drug Stores,Food and Drug Stores,"Eden Prairie, MN",Eden Prairie,952-828-4000,Mark Gross,17529,178,4370,-441
+159,Cummins,55400,Industrials,Industrial Machinery,"Columbus, IN",Columbus,812-377-5000,N. Thomas Linebarger,17509,1394,15011,6875
+160,CenturyLink,40000,Telecommunications,Telecommunications,"Monroe, LA",Monroe,318-388-9000,Glen F. Post III,17470,626,47017,13399
+161,AECOM,87000,Engineering & Construction,"Engineering, Construction","Los Angeles, CA",Los Angeles,213-593-8000,Michael S. Burke,17411,96.1,13727,3367
+162,Xerox,133600,Technology,Computer Peripherals,"Norwalk, CT",Norwalk,203-968-3000,Jeffrey Jacobson,17126,-477,18145,4803
+163,Marriott International,226500,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts","Bethesda, MD",Bethesda,301-380-3000,Arne M. Sorenson,17072,780,24140,5357
+164,Paccar,23000,Industrials,Construction and Farm Machinery,"Bellevue, WA",Bellevue,425-468-7400,Ronald E. Armstrong,17033,521.7,20639,6778
+165,General Mills,39000,"Food, Beverages & Tobacco",Food Consumer Products,"Minneapolis, MN",Minneapolis,763-764-7600,Jeffrey L. Harmening,16563,1697.4,21712,4930
+166,PNC Financial Services Group,50683,Financials,Commercial Banks,"Pittsburgh, PA",Pittsburgh,888-762-2265,William S. Demchak,16423,3903,366380,45699
+167,American Electric Power,17634,Energy,Utilities: Gas and Electric,"Columbus, OH",Columbus,614-716-1000,Nicholas K. Akins,16380,610.9,63468,17397
+168,Icahn Enterprises,90980,Financials,Diversified Financials,"New York, NY",New York,212-702-4300,Keith Cozza,16348,-1128,33335,2154
+169,Nucor,23900,Materials,Metals,"Charlotte, NC",Charlotte,704-366-7000,John J. Ferriola,16208,796.3,15224,7880
+170,NextEra Energy,14700,Energy,Utilities: Gas and Electric,"Juno Beach, FL",Juno Beach,561-694-4000,James L. Robo,16155,2912,89993,24341
+171,Performance Food Group,13000,Wholesalers,Wholesalers: Food and Grocery,"Richmond, VA",Richmond,804-484-7700,George L. Holm,16105,68.3,3455,803
+172,PBF Energy,3165,Energy,Petroleum Refining,"Parsippany, NJ",Parsippany,973-455-7500,Thomas J. Nimbley,15920,170.8,7622,2025
+173,Halliburton,50000,Energy,"Oil and Gas Equipment, Services","Houston, TX",Houston,281-871-2699,Jeffrey A. Miller,15887,-5763,27000,9409
+174,CarMax,22429,Retailing,"Automotive Retailing, Services","Richmond, VA",Richmond,804-747-0422,William D. Nash,15833,623.4,14482,2905
+175,Freeport-McMoRan,30000,Energy,"Mining, Crude-Oil Production","Phoenix, AZ",Phoenix,602-366-8100,Richard C. Adkerson,15789,-4154,37317,6051
+176,Whole Foods Market,73515,Food & Drug Stores,Food and Drug Stores,"Austin, TX",Austin,512-477-4455,John P. Mackey,15724,507,6341,3224
+177,Bank of New York Mellon,52000,Financials,Commercial Banks,"New York, NY",New York,212-495-1784,Gerald L. Hassell,15683,3547,333469,38811
+178,Gap,135000,Retailing,Specialty Retailers: Apparel,"San Francisco, CA",San Francisco,415-427-0100,Arthur L. Peck,15516,676,7610,2904
+179,Omnicom Group,78500,Business Services,"Advertising, Marketing","New York, NY",New York,212-415-3600,John D. Wren,15417,1148.6,23165,2162
+180,Genuine Parts,40000,Wholesalers,Wholesalers: Diversified,"Atlanta, GA",Atlanta,678-934-5000,Paul D. Donahue,15340,687.2,8859,3194
+181,DaVita,70300,Health Care,Health Care: Medical Facilities,"Denver, CO",Denver,303-405-2100,Kent J. Thiry,15197,879.9,18741,4648
+182,Colgate-Palmolive,36700,Household Products,Household and Personal Products,"New York, NY",New York,212-310-2000,Ian M. Cook,15195,2441,12123,-243
+183,PPG Industries,47000,Chemicals,Chemicals,"Pittsburgh, PA",Pittsburgh,412-434-3131,Michael H. McGarry,15178,877,15769,4826
+184,Goodyear Tire & Rubber,66000,Motor Vehicles & Parts,Motor Vehicles and Parts,"Akron, OH",Akron,330-796-2121,Richard J. Kramer,15158,1264,16511,4507
+185,Synchrony Financial,15000,Financials,Diversified Financials,"Stamford, CT",Stamford,203-585-2400,Margaret M. Keane,15122,2251,90207,14196
+186,DISH Network,16000,Telecommunications,Telecommunications,"Englewood, CO",Englewood,303-723-1000,Charles W. Ergen,15095,1449.9,28092,4637
+187,Visa,14200,Business Services,Financial Data Services,"Foster City, CA",Foster City,650-432-3200,Alfred F. Kelly Jr.,15082,5991,64035,32912
+188,Nordstrom,72500,Retailing,General Merchandisers,"Seattle, WA",Seattle,206-628-2111,Blake W. Nordstrom,14757,354,7858,870
+189,INTL FCStone,1464,Financials,Diversified Financials,"New York, NY",New York,212-485-3500,Sean M. O'Connor,14755,54.7,5951,434
+190,WestRock,39000,Materials,"Packaging, Containers","Richmond, VA",Richmond,804-444-1000,Steven C. Voorhees,14706,-396.3,23038,9729
+191,XPO Logistics,87000,Transportation,Transportation and Logistics,"Greenwich, CT",Greenwich,855-976-6951,Bradley S. Jacobs,14619,69,11698,2700
+192,Aramark,217250,Business Services,Diversified Outsourcing Services,"Philadelphia, PA",Philadelphia,215-238-3000,Eric J. Foss,14416,287.8,10582,2161
+193,CBS,18410,Media,Entertainment,"New York, NY",New York,212-975-4321,Leslie Moonves,14386,1261,24238,3689
+194,AES,19000,Energy,Utilities: Gas and Electric,"Arlington, VA",Arlington,703-522-1315,Andres R. Gluski,14287,-1130,36119,2794
+195,WellCare Health Plans,7400,Health Care,Health Care: Insurance and Managed Care,"Tampa, FL",Tampa,813-290-6200,Kenneth A. Burdick,14237,242.1,6153,2000
+196,FirstEnergy,15707,Energy,Utilities: Gas and Electric,"Akron, OH",Akron,800-736-3402,Charles E. Jones,14156,-6177,43148,6241
+197,Conagra Brands,20900,"Food, Beverages & Tobacco",Food Consumer Products,"Chicago, IL",Chicago,312-549-5000,Sean M. Connolly,14134,-677,13391,3714
+198,Synnex,110000,Wholesalers,Wholesalers: Electronics and Office Equipment,"Fremont, CA",Fremont,510-656-3333,Kevin M. Murai,14062,234.9,5223,1976
+199,CDW,8516,Technology,Information Technology Services,"Lincolnshire, IL",Lincolnshire,847-465-6000,Thomas E. Richards,13982,424.4,6948,1046
+200,Textron,36000,Aerospace & Defense,Aerospace and Defense,"Providence, RI",Providence,401-421-2800,Scott C. Donnelly,13788,962,15358,5574
+201,Waste Management,41200,Business Services,Waste Management,"Houston, TX",Houston,713-512-6200,James C. Fish Jr.,13609,1182,20859,5297
+202,Illinois Tool Works,50000,Industrials,Industrial Machinery,"Glenview, IL",Glenview,847-724-7500,E. Scott Santi,13599,2035,15201,4254
+203,Office Depot,38000,Retailing,Specialty Retailers: Other,"Boca Raton, FL",Boca Raton,561-438-4800,Gerry P. Smith,13585,529,5540,1852
+204,Monsanto,22450,Chemicals,Chemicals,"St. Louis, MO",St. Louis,314-694-1000,Hugh Grant,13502,1336,19736,4534
+205,Cognizant Technology Solutions,260200,Technology,Information Technology Services,"Teaneck, NJ",Teaneck,201-801-0233,Francisco D'Souza,13487,1553,14262,10728
+206,Texas Instruments,29865,Technology,Semiconductors and Other Electronic Components,"Dallas, TX",Dallas,214-479-3773,Richard K. Templeton,13370,3595,16431,10473
+207,Lincoln National,9057,Financials,"Insurance: Life, Health (Stock)","Radnor, PA",Radnor,484-583-1400,Dennis R. Glass,13330,1192,261627,14478
+208,Newell Brands,53400,Household Products,"Home Equipment, Furnishings","Hoboken, NJ",Hoboken,770-418-7000,Michael B. Polk,13264,527.8,33838,11349
+209,Land O’Lakes,10000,"Food, Beverages & Tobacco",Food Consumer Products,"Arden Hills, MN",Arden Hills,651-375-2222,Christopher J. Policinski,13233,244.9,8305,1904
+210,Marsh & McLennan,60000,Financials,Diversified Financials,"New York, NY",New York,212-345-5000,Daniel S. Glaser,13211,1768,18190,6192
+211,Ecolab,47565,Chemicals,Chemicals,"St. Paul, MN",St. Paul,800-232-6522,Douglas M. Baker Jr.,13153,1229.6,18330,6901
+212,C.H. Robinson Worldwide,14125,Transportation,Transportation and Logistics,"Eden Prairie, MN",Eden Prairie,952-937-8500,John P. Wiehoff,13144,513.4,3688,1258
+213,Loews,15800,Financials,Insurance: Property and Casualty (Stock),"New York, NY",New York,212-521-2000,James S. Tisch,13105,654,76594,18163
+214,CBRE Group,75000,Financials,Real Estate,"Los Angeles, CA",Los Angeles,213-613-3333,Robert E. Sulentic,13072,572,10780,3015
+215,Kinder Morgan,11121,Energy,Pipelines,"Houston, TX",Houston,713-369-9000,Steven J. Kean,13058,708,80305,34431
+216,Kellogg,37369,"Food, Beverages & Tobacco",Food Consumer Products,"Battle Creek, MI",Battle Creek,269-961-2000,John A. Bryant,13014,694,15111,1910
+217,Western Digital,72878,Technology,Computer Peripherals,"Irvine, CA",Irvine,949-672-7000,Stephen D. Milligan,12994,242,32862,11145
+218,Guardian Life Ins. Co. of America,8876,Financials,"Insurance: Life, Health (Mutual)","New York, NY",New York,212-598-8000,Deanna M. Mulligan,12919,263.9,70339,6172.5
+219,Ross Stores,78600,Retailing,Specialty Retailers: Apparel,"Dublin, CA",Dublin,925-965-4400,Barbara Rentler,12867,1117.7,5309,2748
+220,L Brands,59100,Retailing,Specialty Retailers: Apparel,"Columbus, OH",Columbus,614-415-7000,Leslie H. Wexner,12574,1158.1,8170,-729
+221,J.C. Penney,106000,Retailing,General Merchandisers,"Plano, TX",Plano,972-431-1000,Marvin R. Ellison,12547,1,9314,1354
+222,Farmers Insurance Exchange,13309,Financials,Insurance: Property and Casualty (Mutual),"Woodland Hills, CA",Woodland Hills,323-932-3200,Jeffrey J. Dailey,12513,-147.9,16057,4219
+223,Reynolds American,5525,"Food, Beverages & Tobacco",Tobacco,"Winston-Salem, NC",Winston-Salem,336-741-2000,Debra A. Crew,12503,6073,51095,21711
+224,Viacom,9650,Media,Entertainment,"New York, NY",New York,212-258-6000,Robert Bakish,12488,1438,22508,4277
+225,Becton Dickinson,50928,Health Care,Medical Products and Equipment,"Franklin Lakes, NJ",Franklin Lakes,201-847-6800,Vincent A. Forlenza,12483,976,25586,7633
+226,Micron Technology,31400,Technology,Semiconductors and Other Electronic Components,"Boise, ID",Boise,208-368-4000,Sanjay Mehrotra,12399,-276,27540,12080
+227,Principal Financial,14854,Financials,"Insurance: Life, Health (Stock)","Des Moines, IA",Des Moines,515-247-5111,Daniel J. Houston,12394,1316.5,228014,10227
+228,Arconic,41500,Aerospace & Defense,Aerospace and Defense,"New York, NY",New York,212-836-2758,David P. Hess,12394,-941,20038,5115
+229,NRG Energy,8763,Energy,Energy,"Princeton, NJ",Princeton,609-524-4500,Mauricio Gutierrez,12351,-774,30355,2041
+230,VF,69000,Apparel,Apparel,"Greensboro, NC",Greensboro,336-424-6000,Steven E. Rendle,12207,1074.1,9739,4941
+231,Devon Energy,3545,Energy,"Mining, Crude-Oil Production","Oklahoma City, OK",Oklahoma City,405-235-3611,David A. Hager,12197,-3302,25913,5927
+232,D.R. Horton,6976,Engineering & Construction,Homebuilders,"Fort Worth, TX",Fort Worth,817-390-8200,David V. Auld,12157,886.3,11559,6793
+233,Bed Bath & Beyond,62000,Retailing,Specialty Retailers: Other,"Union, NJ",Union,908-688-0888,Steven H. Temares,12104,841.5,6499,2560
+234,Consolidated Edison,14960,Energy,Utilities: Gas and Electric,"New York, NY",New York,212-460-4600,John McAvoy,12075,1245,48255,14298
+235,Edison International,12390,Energy,Utilities: Gas and Electric,"Rosemead, CA",Rosemead,626-302-2222,Pedro J. Pizarro,11869,1311,51319,11996
+236,Sherwin-Williams,42550,Chemicals,Chemicals,"Cleveland, OH",Cleveland,216-566-2000,John G. Morikis,11856,1132.7,6753,1878
+237,NGL Energy Partners,3200,Energy,Energy,"Tulsa, OK",Tulsa,918-481-1119,H. Michael Krimbill,11742,-198.9,5560,1656
+238,Dominion Energy,16200,Energy,Utilities: Gas and Electric,"Richmond, VA",Richmond,804-819-2000,Thomas F. Farrell II,11737,2123,71610,14605
+239,Ameriprise Financial,13195,Financials,Diversified Financials,"Minneapolis, MN",Minneapolis,612-671-3131,James M. Cracchiolo,11735,1314,139821,6292
+240,ADP,57000,Business Services,Diversified Outsourcing Services,"Roseland, NJ",Roseland,973-974-5000,Carlos A. Rodriguez,11668,1492.5,43670,4482
+241,Hilton Worldwide Holdings,169000,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts","McLean, VA",McLean,703-883-1000,Christopher J. Nassetta,11663,348,26211,5899
+242,First Data,24000,Business Services,Financial Data Services,"Atlanta, GA",Atlanta,404-890-2000,Frank J. Bisignano,11584,420,40292,1220
+243,Henry Schein,21000,Wholesalers,Wholesalers: Health Care,"Melville, NY",Melville,631-843-5500,Stanley M. Bergman,11572,506.8,6730,2793
+244,Toys “R” Us,64000,Retailing,Specialty Retailers: Other,"Wayne, NJ",Wayne,973-617-3500,David A. Brandon,11540,-36,6908,-1292
+245,BB&T Corp.,37500,Financials,Commercial Banks,"Winston-Salem, NC",Winston-Salem,336-733-2000,Kelly S. King,11538,2426,219276,29881
+246,Reinsurance Group of America,2371,Financials,"Insurance: Life, Health (Stock)","Chesterfield, MO",Chesterfield,636-736-7000,Anna Manning,11522,701.4,53098,7093.1
+247,Core-Mark Holding,7688,Wholesalers,Wholesalers: Food and Grocery,"South San Francisco, CA",South San Francisco,650-589-9445,Thomas B. Perkins,11507,54.2,1497,530
+248,Biogen,7400,Health Care,Pharmaceuticals,"Cambridge, MA",Cambridge,617-679-2000,Michel Vounatsos,11449,3702.8,22877,12140
+249,Las Vegas Sands,49000,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts","Las Vegas, NV",Las Vegas,702-414-1000,Sheldon G. Adelson,11410,1670,20469,6177
+250,Stanley Black & Decker,54023,Household Products,"Home Equipment, Furnishings","New Britain, CT",New Britain,860-225-5111,James M. Loree,11407,965.3,15635,6367
+251,Parker-Hannifin,48950,Industrials,Industrial Machinery,"Cleveland, OH",Cleveland,216-896-3000,Thomas L. Williams,11361,806.8,12057,4575
+252,Stryker,33000,Health Care,Medical Products and Equipment,"Kalamazoo, MI",Kalamazoo,269-385-2600,Kevin A. Lobo,11325,1647,20435,9550
+253,Estee Lauder,46000,Household Products,Household and Personal Products,"New York, NY",New York,212-572-4200,Fabrizio Freda,11262,1114.6,9223,3572
+254,Celgene,7132,Health Care,Pharmaceuticals,"Summit, NJ",Summit,908-673-9000,Mark J. Alles,11229,1999.2,28086,6599
+255,BlackRock,13000,Financials,Securities,"New York, NY",New York,212-810-5300,Laurence D. Fink,11155,3172,220177,29098
+256,Xcel Energy,11476,Energy,Utilities: Gas and Electric,"Minneapolis, MN",Minneapolis,612-330-5500,Benjamin G.S. Fowke III,11107,1123.4,41155,11021
+257,CSX,26628,Transportation,Railroads,"Jacksonville, FL",Jacksonville,904-359-3200,E. Hunter Harrison,11069,1714,35414,11679
+258,Unum Group,9400,Financials,"Insurance: Life, Health (Stock)","Chattanooga, TN",Chattanooga,423-294-1011,Richard P. McKenney,11047,931.4,61942,8968
+259,Jacobs Engineering Group,49350,Engineering & Construction,"Engineering, Construction","Dallas, TX",Dallas,214-583-8500,Steven J. Demetriou,10964,210.5,7360,4265
+260,Lennar,8335,Engineering & Construction,Homebuilders,"Miami, FL",Miami,305-559-4000,Stuart A. Miller,10950,911.8,15362,7026
+261,Group 1 Automotive,13500,Retailing,"Automotive Retailing, Services","Houston, TX",Houston,713-647-5700,Earl J. Hesterberg,10888,147.1,4462,930
+262,Leucadia National,13000,Financials,Diversified Financials,"New York, NY",New York,212-460-1900,Richard B. Handler,10875,130,45071,10128
+263,Entergy,13513,Energy,Utilities: Gas and Electric,"New Orleans, LA",New Orleans,504-576-4000,Leo P. Denault,10846,-583.6,45904,8082
+264,PayPal Holdings,18100,Business Services,Financial Data Services,"San Jose, CA",San Jose,408-967-1000,Daniel H. Schulman,10842,1401,33103,14712
+265,Applied Materials,16150,Technology,Semiconductors and Other Electronic Components,"Santa Clara, CA",Santa Clara,408-727-5555,Gary E. Dickerson,10825,1721,14588,7217
+266,Voya Financial,6700,Financials,Diversified Financials,"New York, NY",New York,212-309-8200,Rodney O. Martin Jr.,10782,-428,214235,12994
+267,Mastercard,11900,Business Services,Financial Data Services,"Purchase, NY",Purchase,914-249-2000,Ajay Banga,10776,4059,18675,5656
+268,Priceline Group,18500,Technology,Internet Services and Retailing,"Norwalk, CT",Norwalk,203-299-8000,Glenn D. Fogel,10743,2135,19839,9820
+269,Liberty Interactive,21080,Retailing,Internet Services and Retailing,"Englewood, CO",Englewood,720-875-5300,Gregory B. Maffei,10647,1235,20355,6772
+270,AutoZone,66780,Retailing,Specialty Retailers: Other,"Memphis, TN",Memphis,901-495-6500,William C. Rhodes III,10636,1241,8600,-1788
+271,State Street Corp.,33783,Financials,Commercial Banks,"Boston, MA",Boston,617-786-3000,Joseph L. Hooley,10635,2143,242698,21219
+272,DTE Energy,10000,Energy,Utilities: Gas and Electric,"Detroit, MI",Detroit,313-235-4000,Gerard M. Anderson,10630,868,32041,9011
+273,L3 Technologies,38000,Aerospace & Defense,Aerospace and Defense,"New York, NY",New York,212-697-1111,Michael T. Strianese,10597,710,11865,4553
+274,HollyFrontier,2676,Energy,Petroleum Refining,"Dallas, TX",Dallas,214-871-3555,George J. Damiris,10536,-260.5,9436,4681
+275,Praxair,26498,Chemicals,Chemicals,"Danbury, CT",Danbury,203-837-2000,Stephen F. Angel,10534,1500,19332,5021
+276,Universal Health Services,70863,Health Care,Health Care: Medical Facilities,"King of Prussia, PA",King of Prussia,610-768-3300,Alan B. Miller,10508,702.4,10318,4533
+277,Discover Financial Services,15549,Financials,Commercial Banks,"Riverwoods, IL",Riverwoods,224-405-0900,David W. Nelms,10497,2393,92308,11323
+278,Occidental Petroleum,11000,Energy,"Mining, Crude-Oil Production","Houston, TX",Houston,713-215-7000,Vicki A. Hollub,10398,-574,43109,21497
+279,United States Steel,29800,Materials,Metals,"Pittsburgh, PA",Pittsburgh,412-433-1121,David B. Burritt,10261,-440,9160,2274
+280,Sempra Energy,16575,Energy,Utilities: Gas and Electric,"San Diego, CA",San Diego,619-696-2000,Debra L. Reed,10183,1370,47786,12951
+281,Baxter International,48000,Health Care,Medical Products and Equipment,"Deerfield, IL",Deerfield,224-948-2000,Jose E. Almeida,10163,4965,15546,8290
+282,W.W. Grainger,25000,Wholesalers,Wholesalers: Diversified,"Lake Forest, IL",Lake Forest,847-535-1000,D.G. Macpherson,10137,605.9,5694,1798
+283,Autoliv,65900,Motor Vehicles & Parts,Motor Vehicles and Parts,"Auburn Hills, MI",Auburn Hills,248-475-9000,Jan Carlson,10074,567.1,8234,3677
+284,Norfolk Southern,27856,Transportation,Railroads,"Norfolk, VA",Norfolk,757-629-2680,James A. Squires,9888,1668,34892,12409
+285,Baker Hughes,33000,Energy,"Oil and Gas Equipment, Services","Houston, TX",Houston,713-439-8600,Martin S. Craighead,9841,-2738,19034,12656
+286,Ally Financial,7600,Financials,Diversified Financials,"Detroit, MI",Detroit,866-710-4623,Jeffrey J. Brown,9835,1067,163728,13317
+287,Sonic Automotive,9800,Retailing,"Automotive Retailing, Services","Charlotte, NC",Charlotte,704-566-2400,B. Scott Smith,9732,93.2,3639,725
+288,Owens & Minor,7900,Wholesalers,Wholesalers: Health Care,"Mechanicsville, VA",Mechanicsville,804-723-7000,P. Cody Phipps,9723,108.8,2718,960
+289,Huntsman,15000,Chemicals,Chemicals,"The Woodlands, TX",The Woodlands,281-719-6000,Peter R. Huntsman,9657,326,9189,1287
+290,Laboratory Corp. of America,52000,Health Care,Health Care: Pharmacy and Other Services,"Burlington, NC",Burlington,336-229-1127,David P. King,9642,732.1,14247,5506
+291,Murphy USA,6600,Retailing,Specialty Retailers: Other,"El Dorado, AR",El Dorado,870-875-7600,R. Andrew Clyde,9633,221.5,2089,697
+292,Advance Auto Parts,57500,Retailing,Specialty Retailers: Other,"Roanoke, VA",Roanoke,540-362-4911,Thomas R. Greco,9568,459.6,8315,2916
+293,Fidelity National Financial,55219,Financials,Insurance: Property and Casualty (Stock),"Jacksonville, FL",Jacksonville,904-854-8100,Raymond R. Quirk,9554,650,14463,5996
+294,Air Products & Chemicals,18450,Chemicals,Chemicals,"Allentown, PA",Allentown,610-481-4911,Seifi Ghasemi,9524,631.1,18055,7080
+295,Hormel Foods,21100,"Food, Beverages & Tobacco",Food Consumer Products,"Austin, MN",Austin,507-437-5611,James P. Snee,9523,890.1,6370,4448
+296,Hertz Global Holdings,36000,Retailing,"Automotive Retailing, Services","Estero, FL",Estero,239-301-7000,Kathryn V. Marinello,9480,-491,19155,1075
+297,MGM Resorts International,66500,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts","Las Vegas, NV",Las Vegas,702-693-7120,James J. Murren,9455,1101.4,28173,6220
+298,Corning,40700,Industrials,"Electronics, Electrical Equipment","Corning, NY",Corning,607-974-9000,Wendell P. Weeks,9390,3695,27899,17893
+299,Republic Services,33000,Business Services,Waste Management,"Phoenix, AZ",Phoenix,480-627-2700,Donald W. Slager,9388,612.6,20630,7691
+300,Alcoa,14000,Materials,Metals,"New York, NY",New York,212-518-5400,Roy C. Harvey,9318,-400,16741,5654
+301,Fidelity National Information Services,55000,Business Services,Financial Data Services,"Jacksonville, FL",Jacksonville,904-438-6000,Gary A. Norcross,9241,568,26031,9741
+302,Pacific Life,3628,Financials,"Insurance: Life, Health (Stock)","Newport Beach, CA",Newport Beach,949-219-3011,James T. Morris,9169,824,143298,11022
+303,SunTrust Banks,24375,Financials,Commercial Banks,"Atlanta, GA",Atlanta,800-786-8787,William H. Rogers Jr.,9161,1878,204875,23515
+304,LKQ,42500,Wholesalers,Wholesalers: Diversified,"Chicago, IL",Chicago,312-621-1950,Dominick P. Zarcone,9082,464,8303,3442.9
+305,BorgWarner,27000,Motor Vehicles & Parts,Motor Vehicles and Parts,"Auburn Hills, MI",Auburn Hills,248-754-9200,James R. Verrier,9071,118.5,8835,3218.3
+306,Ball,18450,Materials,"Packaging, Containers","Broomfield, CO",Broomfield,303-469-3131,John A. Hayes,9061,263,16173,3435
+306,CST Brands,12380,Retailing,Specialty Retailers: Other,"San Antonio, TX",San Antonio,210-692-5000,Kimberly S. Lubel,9061,324,4360,1229
+306,Public Service Enterprise Group,13065,Energy,Utilities: Gas and Electric,"Newark, NJ",Newark,973-430-7000,Ralph Izzo,9061,887,40070,13130
+309,Eastman Chemical,14000,Chemicals,Chemicals,"Kingsport, TN",Kingsport,423-229-2000,Mark J. Costa,9008,854,15457,4532
+310,eBay,12600,Technology,Internet Services and Retailing,"San Jose, CA",San Jose,408-376-7400,Devin N. Wenig,8979,7266,23847,10539
+311,Mohawk Industries,37800,Household Products,"Home Equipment, Furnishings","Calhoun, GA",Calhoun,706-629-7721,Jeffrey S. Lorberbaum,8959,930.4,10231,5777
+312,Oneok,2384,Energy,Pipelines,"Tulsa, OK",Tulsa,918-588-7000,Terry K. Spencer,8921,352,16139,189
+313,Frontier Communications,28332,Telecommunications,Telecommunications,"Norwalk, CT",Norwalk,203-614-5600,Daniel J. McCarthy,8896,-373,29013,4519
+314,Netflix,3850,Technology,Internet Services and Retailing,"Los Gatos, CA",Los Gatos,408-540-3700,Reed Hastings,8831,186.7,13587,2680
+315,American Family Insurance Group,10471,Financials,Insurance: Property and Casualty (Stock),"Madison, WI",Madison,608-249-2111,Jack C. Salzwedel,8829,325.6,22662,7760
+316,Thrivent Financial for Lutherans,3282,Financials,"Insurance: Life, Health (Mutual)","Minneapolis, MN",Minneapolis,612-844-7000,Bradford L. Hewitt,8777,587.8,88561,7726
+317,Expedia,20075,Technology,Internet Services and Retailing,"Bellevue, WA",Bellevue,425-679-7200,Dara Khosrowshahi,8774,281.8,15778,4132
+318,Lithia Motors,11170,Retailing,"Automotive Retailing, Services","Medford, OR",Medford,541-776-6401,Bryan B. DeBoer,8678,197.1,3844,911
+319,Avis Budget Group,25600,Retailing,"Automotive Retailing, Services","Parsippany, NJ",Parsippany,973-496-4700,Larry D. De Shon,8659,163,17643,221
+320,Reliance Steel & Aluminum,14500,Materials,Metals,"Los Angeles, CA",Los Angeles,213-687-7700,Gregg J. Mollins,8613,304.3,7411,4149
+321,GameStop,41750,Retailing,Specialty Retailers: Other,"Grapevine, TX",Grapevine,817-424-2000,J. Paul Raines,8608,353.2,4976,2254
+322,Tenneco,31000,Motor Vehicles & Parts,Motor Vehicles and Parts,"Lake Forest, IL",Lake Forest,847-482-5000,Brian J. Kesseler,8599,363,4342,588
+323,O’Reilly Automotive,58397,Retailing,Specialty Retailers: Other,"Springfield, MO",Springfield,417-862-6708,Gregory L. Henslee,8593,1037.7,7204,1627
+324,Peter Kiewit Sons’,20000,Engineering & Construction,"Engineering, Construction","Omaha, NE",Omaha,402-342-2052,Bruce E. Grewcock,8573,396,6179,3268
+325,United Natural Foods,9554,Wholesalers,Wholesalers: Food and Grocery,"Providence, RI",Providence,401-528-8634,Steven L. Spinner,8470,125.8,2852,1520
+326,salesforce.com,25000,Technology,Computer Software,"San Francisco, CA",San Francisco,415-901-7000,Marc R. Benioff,8392,179.6,17585,7500
+327,Boston Scientific,27000,Health Care,Medical Products and Equipment,"Marlborough, MA",Marlborough,508-683-4000,Michael F. Mahoney,8386,347,18096,6733
+328,Newmont Mining,12438,Energy,"Mining, Crude-Oil Production","Greenwood Village, CO",Greenwood Village,303-863-7414,Gary J. Goldberg,8379,-627,21031,10721
+329,Genworth Financial,3400,Financials,"Insurance: Life, Health (Stock)","Richmond, VA",Richmond,804-281-6000,Thomas J. McInerney,8369,-277,104658,12644
+330,Live Nation Entertainment,11500,Media,Entertainment,"Beverly Hills, CA",Beverly Hills,310-867-7000,Michael Rapino,8355,2.9,6764,1126
+331,Veritiv,8700,Wholesalers,Wholesalers: Diversified,"Atlanta, GA",Atlanta,770-391-8200,Mary A. Laschinger,8327,21,2484,542
+332,News Corp.,24000,Media,"Publishing, Printing","New York, NY",New York,212-416-3400,Robert J. Thomson,8319,179,15483,11564
+333,Crown Holdings,23992,Materials,"Packaging, Containers","Philadelphia, PA",Philadelphia,215-698-5100,Timothy J. Donahue,8284,496,9599,366
+334,Global Partners,1770,Wholesalers,Wholesalers: Diversified,"Waltham, MA",Waltham,781-894-8800,Eric Slifka,8240,-199.4,2564,393
+335,PVH,26650,Apparel,Apparel,"New York, NY",New York,212-381-3500,Emanuel Chirico,8203,549,11068,4805
+336,Level 3 Communications,12600,Telecommunications,Telecommunications,"Broomfield, CO",Broomfield,720-888-1000,Jeffrey K. Storey,8172,677,24888,10917
+337,Navistar International,11300,Industrials,Construction and Farm Machinery,"Lisle, IL",Lisle,331-332-5000,Troy A. Clarke,8111,-97,5653,-5298
+338,Univar,8700,Wholesalers,Wholesalers: Diversified,"Downers Grove, IL",Downers Grove,331-777-6000,Stephen D. Newlin,8074,-68.4,5390,810
+339,Campbell Soup,16500,"Food, Beverages & Tobacco",Food Consumer Products,"Camden, NJ",Camden,856-342-4800,Denise M. Morrison,7961,563,7837,1525
+340,Dick’s Sporting Goods,27550,Retailing,Specialty Retailers: Other,"Coraopolis, PA",Coraopolis,724-273-3400,Edward W. Stack,7922,287.4,4058,1930
+341,Weyerhaeuser,10400,Materials,Forest and Paper Products,"Seattle, WA",Seattle,206-539-3000,Doyle R. Simons,7902,1027,19243,9180
+342,Mutual of Omaha Insurance,5732,Financials,"Insurance: Life, Health (Stock)","Omaha, NE",Omaha,402-342-7600,James T. Blackledge,7899,356.6,38465,5618
+343,Chesapeake Energy,3300,Energy,"Mining, Crude-Oil Production","Oklahoma City, OK",Oklahoma City,405-848-8000,Robert D. Lawler,7872,-4401,13028,-1460
+344,Anadarko Petroleum,4500,Energy,"Mining, Crude-Oil Production","The Woodlands, TX",The Woodlands,832-636-1000,R. A. Walker,7869,-3071,45564,12212
+345,Interpublic Group,49800,Business Services,"Advertising, Marketing","New York, NY",New York,212-704-1200,Michael I. Roth,7847,608.5,12485,2017
+346,J.M. Smucker,6910,"Food, Beverages & Tobacco",Food Consumer Products,"Orrville, OH",Orrville,330-682-3000,Mark T. Smucker,7811,688.7,15984,7009
+347,Steel Dynamics,7695,Materials,Metals,"Fort Wayne, IN",Fort Wayne,260-969-3500,Mark D. Millett,7777,382.1,6424,2927
+348,Foot Locker,32965,Retailing,Specialty Retailers: Apparel,"New York, NY",New York,212-720-3700,Richard A. Johnson,7766,664,3840,2710
+349,Western Refining,7134,Energy,Petroleum Refining,"El Paso, TX",El Paso,915-534-1400,Gregory J. Goff,7743,124.9,5560,1697
+350,SpartanNash,11500,Wholesalers,Wholesalers: Food and Grocery,"Byron Center, MI",Byron Center,616-878-2000,David M. Staples,7735,56.8,1930,825
+351,Dean Foods,17000,"Food, Beverages & Tobacco",Food Consumer Products,"Dallas, TX",Dallas,214-303-3400,Ralph P. Scozzafava,7710,119.9,2606,611
+352,Zimmer Biomet Holdings,18500,Health Care,Medical Products and Equipment,"Warsaw, IN",Warsaw,574-267-6131,David C. Dvorak,7684,305.9,26684,9669
+353,PulteGroup,4623,Engineering & Construction,Homebuilders,"Atlanta, GA",Atlanta,404-978-6400,Ryan R. Marshall,7669,602.7,10178,4659
+354,W.R. Berkley,7608,Financials,Insurance: Property and Casualty (Stock),"Greenwich, CT",Greenwich,203-629-3000,W. Robert Berkley Jr.,7654,601.9,23365,5047
+355,Quanta Services,28100,Engineering & Construction,"Engineering, Construction","Houston, TX",Houston,713-629-7600,Earl C. Austin Jr.,7651,198.4,5354,3339
+356,EOG Resources,2650,Energy,"Mining, Crude-Oil Production","Houston, TX",Houston,713-651-7000,William R. Thomas,7651,-1096.7,29459,13982
+357,Charles Schwab,16200,Financials,Securities,"San Francisco, CA",San Francisco,415-667-7000,Walter W. Bettinger II,7644,1889,223383,16421
+358,Eversource Energy,7762,Energy,Utilities: Gas and Electric,"Springfield, MA",Springfield,800-286-5000,James J. Judge,7639,942.3,32053,10712
+359,Anixter International,8900,Wholesalers,Wholesalers: Electronics and Office Equipment,"Glenview, IL",Glenview,224-521-8000,Robert J. Eck,7625,120.5,4094,1292
+360,EMCOR Group,31000,Engineering & Construction,"Engineering, Construction","Norwalk, CT",Norwalk,203-849-7800,Anthony J. Guzzi,7552,181.9,3894,1537
+361,Assurant,14700,Financials,Insurance: Property and Casualty (Stock),"New York, NY",New York,212-859-7000,Alan B. Colberg,7532,565.4,29709,4098
+362,CenterPoint Energy,7727,Energy,Utilities: Gas and Electric,"Houston, TX",Houston,713-207-1111,Scott M. Prochazka,7528,432,21829,3460
+363,Harris,21000,Technology,Network and Other Communications Equipment,"Melbourne, FL",Melbourne,321-727-9100,William M. Brown,7527,324,11996,3056
+364,HD Supply Holdings,14000,Wholesalers,Wholesalers: Diversified,"Atlanta, GA",Atlanta,770-852-9000,Joseph J. DeAngelo,7524,196,5707,960
+365,PPL,12689,Energy,Utilities: Gas and Electric,"Allentown, PA",Allentown,610-774-5151,William H. Spence,7517,1902,38315,9899
+366,Quest Diagnostics,43000,Health Care,Health Care: Pharmacy and Other Services,"Madison, NJ",Madison,973-520-2700,Stephen H. Rusckowski,7515,645,10100,4628
+367,Williams,5604,Energy,Energy,"Tulsa, OK",Tulsa,918-573-2000,Alan S. Armstrong,7499,-424,46835,4643
+368,WEC Energy Group,8074,Energy,Utilities: Gas and Electric,"Milwaukee, WI",Milwaukee,414-221-2345,Allen L. Leverett,7472,939,30123,8930
+369,Hershey,17140,"Food, Beverages & Tobacco",Food Consumer Products,"Hershey, PA",Hershey,717-534-4200,Michele G. Buck,7440,720,5524,786
+370,AGCO,19795,Industrials,Construction and Farm Machinery,"Duluth, GA",Duluth,770-813-9200,Martin H. Richenhagen,7411,160.1,7168,2776
+371,Ralph Lauren,20500,Apparel,Apparel,"New York, NY",New York,212-318-7000,Patrice Louvet,7405,396,6213,3744
+372,Masco,26000,Household Products,"Home Equipment, Furnishings","Taylor, MI",Taylor,313-274-7400,Keith J. Allman,7357,491,5137,-298
+373,WESCO International,9000,Wholesalers,Wholesalers: Diversified,"Pittsburgh, PA",Pittsburgh,412-454-2200,John J. Engel,7336,101.6,4491,2013
+374,LifePoint Health,47000,Health Care,Health Care: Medical Facilities,"Brentwood, TN",Brentwood,615-920-7000,William F. Carpenter III,7274,121.9,6319,2180
+375,National Oilwell Varco,36384,Energy,"Oil and Gas Equipment, Services","Houston, TX",Houston,713-346-7500,Clay C. Williams,7251,-2412,21140,13940
+376,Kindred Healthcare,76650,Health Care,Health Care: Medical Facilities,"Louisville, KY",Louisville,502-596-7300,Benjamin A. Breier,7227,-664.2,6113,813
+377,Mosaic,8700,Chemicals,Chemicals,"Plymouth, MN",Plymouth,763-577-2700,James C. O'Rourke,7163,297.8,16841,9585
+378,Alliance Data Systems,17000,Business Services,Financial Data Services,"Plano, TX",Plano,214-494-3000,Edward J. Heffernan,7138,515.8,25514,1658
+379,Computer Sciences,59000,Technology,Information Technology Services,"Tysons, VA",Tysons,703-876-1000,J. Michael Lawrie,7106,251,7736,2025
+380,Huntington Ingalls Industries,37000,Aerospace & Defense,Aerospace and Defense,"Newport News, VA",Newport News,757-380-2000,C. Michael Petters,7068,573,6352,1653
+381,Leidos Holdings,32000,Technology,Information Technology Services,"Reston, VA",Reston,571-526-6000,Roger A. Krone,7043,244,9132,3135
+382,Erie Insurance Group,4988,Financials,Insurance: Property and Casualty (Mutual),"Erie, PA",Erie,814-870-2000,Timothy G. NeCastro,7016,741.9,18417,8528
+383,Tesla,30025,Motor Vehicles & Parts,Motor Vehicles and Parts,"Palo Alto, CA",Palo Alto,650-681-5000,Elon Musk,7000,-674.9,22664,4753
+384,Ascena Retail Group,41000,Retailing,Specialty Retailers: Apparel,"Mahwah, NJ",Mahwah,551-777-6700,David R. Jaffe,6995,-11.9,5506,1863
+385,Darden Restaurants,150942,"Hotels, Restaurants & Leisure",Food Services,"Orlando, FL",Orlando,407-245-4000,Eugene I. Lee Jr.,6934,375,4583,1952
+386,Harman International Industries,26000,Industrials,"Electronics, Electrical Equipment","Stamford, CT",Stamford,203-328-3500,Dinesh C. Paliwal,6912,361.7,6054,2453
+387,Nvidia,10299,Technology,Semiconductors and Other Electronic Components,"Santa Clara, CA",Santa Clara,408-486-2000,Jen-Hsun Huang,6910,1666,9841,5762
+388,R.R. Donnelley & Sons,44360,Media,"Publishing, Printing","Chicago, IL",Chicago,312-326-8000,Daniel L. Knotts,6896,-495.9,4285,-106
+389,Fifth Third Bancorp,17844,Financials,Commercial Banks,"Cincinnati, OH",Cincinnati,800-972-3030,Greg D. Carmichael,6889,1564,142177,16205
+390,Quintiles IMS Holdings,50000,Health Care,Health Care: Pharmacy and Other Services,"Durham, NC",Durham,919-998-2000,Ari Bousbib,6878,115,21208,8633
+391,Jones Lang LaSalle,77300,Financials,Real Estate,"Chicago, IL",Chicago,312-782-5800,Christian Ulbrich,6804,318.2,7629,2790
+392,Dover,29000,Industrials,Industrial Machinery,"Downers Grove, IL",Downers Grove,630-541-1540,Robert A. Livingston,6794,508.9,10116,3800
+393,Spirit AeroSystems Holdings,14400,Aerospace & Defense,Aerospace and Defense,"Wichita, KS",Wichita,316-526-9000,Thomas C. Gentile III,6793,469.7,5405,1928
+394,Ryder System,34500,Transportation,"Trucking, Truck Leasing","Miami, FL",Miami,305-500-3726,Robert E. Sanchez,6787,262.5,10903,2052
+395,A-Mark Precious Metals,83,Materials,Miscellaneous,"Santa Monica, CA",Santa Monica,310-587-1477,Gregory N. Roberts,6784,9.3,437,63
+396,Tractor Supply,19500,Retailing,Specialty Retailers: Other,"Brentwood, TN",Brentwood,615-440-4000,Gregory A. Sandfort,6780,437.1,2675,1453
+397,Sealed Air,23000,Materials,"Packaging, Containers","Charlotte, NC",Charlotte,980-221-3235,Jerome A. Peribere,6778,486.4,7389,610
+398,Auto-Owners Insurance,4737,Financials,Insurance: Property and Casualty (Mutual),"Lansing, MI",Lansing,517-323-1200,Jeffrey F. Harrold,6775,706.3,21571,9690
+399,Yum China Holdings,420000,"Hotels, Restaurants & Leisure",Food Services,"Plano, TX",Plano,972-338-7530,Muktesh Pant,6752,502,3727,2377
+400,Calpine,2372,Energy,Energy,"Houston, TX",Houston,713-830-2000,John B. Hill,6716,92,19317,3268
+401,Owens-Illinois,27000,Materials,"Packaging, Containers","Perrysburg, OH",Perrysburg,567-336-5000,Andres A. Lopez,6702,209,9135,254
+402,Targa Resources,1970,Energy,Pipelines,"Houston, TX",Houston,713-584-1000,Joe Bob Perkins,6691,-187.3,12871,5439
+403,Jones Financial (Edward Jones),43000,Financials,Securities,"Des Peres, MO",Des Peres,314-515-2000,James D. Weddle,6632,746,19424,2634
+403,JetBlue Airways,15986,Transportation,Airlines,"Long Island City, NY",Long Island City,718-286-7900,Robin Hayes,6632,759,9487,4013
+405,Franklin Resources,9059,Financials,Securities,"San Mateo, CA",San Mateo,650-312-2000,Gregory E. Johnson,6618,1726.7,16099,11936
+406,Activision Blizzard,9500,Technology,Computer Software,"Santa Monica, CA",Santa Monica,310-255-2000,Robert A. Kotick,6608,966,17452,9119
+407,J.B. Hunt Transport Services,22190,Transportation,"Trucking, Truck Leasing","Lowell, AR",Lowell,479-820-0000,John N. Roberts III,6556,432.1,3829,1414
+408,Constellation Brands,9000,"Food, Beverages & Tobacco",Beverages,"Victor, NY",Victor,585-678-7100,Robert S. Sands,6548,1054.9,16965,6560
+409,NCR,33500,Technology,"Computers, Office Equipment","Duluth, GA",Duluth,937-445-5000,William R. Nuti,6543,270,7673,1542
+410,Asbury Automotive Group,7900,Retailing,"Automotive Retailing, Services","Duluth, GA",Duluth,770-418-8200,Craig T. Monaghan,6528,167.2,2336,280
+411,American Financial Group,7600,Financials,Insurance: Property and Casualty (Stock),"Cincinnati, OH",Cincinnati,513-579-2121,"Carl H. Lindner lll, S. Craig Lindner",6498,649,55072,4916
+412,Discovery Communications,7000,Media,Entertainment,"Silver Spring, MD",Silver Spring,240-662-2000,David M. Zaslav,6497,1194,15758,5167
+413,Berry Global Group,21000,Materials,"Packaging, Containers","Evansville, IN",Evansville,812-424-2904,Thomas E. Salmon,6489,236,7653,218
+414,Sanmina,40178,Technology,Semiconductors and Other Electronic Components,"San Jose, CA",San Jose,408-964-3500,Jure Sola,6481,187.8,3625,1610
+415,CalAtlantic Group,3055,Engineering & Construction,Homebuilders,"Arlington, VA",Arlington,240-532-3806,Larry T. Nicholson,6477,484.7,8709,4208
+416,Dr Pepper Snapple Group,20000,"Food, Beverages & Tobacco",Beverages,"Plano, TX",Plano,972-673-7000,Larry D. Young,6440,847,9791,2134
+417,Dillard’s,30800,Retailing,General Merchandisers,"Little Rock, AR",Little Rock,501-376-5200,William T. Dillard II,6418,169.2,3888,1717
+418,HRG Group,16021,Household Products,Household and Personal Products,"New York, NY",New York,212-906-8555,Joseph S. Steinberg,6403,-198.8,35793,638
+419,CMS Energy,7750,Energy,Utilities: Gas and Electric,"Jackson, MI",Jackson,517-788-0550,Patricia K. Poppe,6399,551,21622,4253
+420,Graybar Electric,8500,Wholesalers,Wholesalers: Diversified,"St. Louis, MO",St. Louis,314-573-9200,Kathleen M. Mazzarella,6385,93.1,2099,728
+421,Builders FirstSource,14000,Materials,"Building Materials, Glass","Dallas, TX",Dallas,214-880-3500,Floyd F. Sherman,6367,144.3,2910,310
+422,Yum Brands,90000,"Hotels, Restaurants & Leisure",Food Services,"Louisville, KY",Louisville,502-874-8300,Greg Creed,6366,1619,5478,-5656
+423,Casey’s General Stores,24724,Retailing,Specialty Retailers: Other,"Ankeny, IA",Ankeny,515-965-6100,Terry W. Handley,6304,226,2726,1084
+424,Amphenol,62000,Technology,Network and Other Communications Equipment,"Wallingford, CT",Wallingford,203-265-8900,R. Adam Norwitt,6286,822.9,8499,3675
+425,Oshkosh,13800,Industrials,Construction and Farm Machinery,"Oshkosh, WI",Oshkosh,920-235-9150,Wilson R. Jones,6279,216.4,4514,1977
+426,iHeartMedia,18700,Media,Entertainment,"San Antonio, TX",San Antonio,210-822-2828,Robert W. Pittman,6274,-296.3,12862,-11021
+427,TreeHouse Foods,16027,"Food, Beverages & Tobacco",Food Consumer Products,"Oak Brook, IL",Oak Brook,708-483-1300,Sam K. Reed,6175,-228.6,6546,2503
+428,Alleghany,3420,Financials,Insurance: Property and Casualty (Stock),"New York, NY",New York,212-752-1356,Weston M. Hicks,6131,456.9,23757,7940
+429,Expeditors International of Washington,16000,Transportation,Transportation and Logistics,"Seattle, WA",Seattle,206-674-3400,Jeffrey S. Musser,6098,430.8,2791,1845
+430,Avery Dennison,25000,Materials,"Packaging, Containers","Glendale, CA",Glendale,626-304-2000,Mitchell R. Butier,6087,320.7,4396,926
+431,Ameren,8629,Energy,Utilities: Gas and Electric,"St. Louis, MO",St. Louis,314-621-3222,Warner L. Baxter,6076,653,24699,7103
+432,Hanesbrands,67800,Apparel,Apparel,"Winston-Salem, NC",Winston-Salem,336-519-8080,Gerald W. Evans Jr.,6063,539.4,6908,1224
+433,Motorola Solutions,14000,Technology,Network and Other Communications Equipment,"Chicago, IL",Chicago,847-576-5000,Gregory Q. Brown,6038,560,8463,-964
+434,St. Jude Medical,18000,Health Care,Medical Products and Equipment,"St. Paul, MN",St. Paul,651-756-2000,Miles D. White,6004,734,12578,4578
+435,Harley-Davidson,6000,Transportation,Transportation Equipment,"Milwaukee, WI",Milwaukee,414-342-4680,Matthew S. Levatich,5997,692.2,9890,1920
+436,Regions Financial,22166,Financials,Commercial Banks,"Birmingham, AL",Birmingham,800-734-4667,O.B. Grayson Hall Jr.,5967,1163,125968,16664
+437,Intercontinental Exchange,5631,Financials,Securities,"Atlanta, GA",Atlanta,770-857-4700,Jeffrey C. Sprecher,5958,1422,82003,15717
+438,Alaska Air Group,19112,Transportation,Airlines,"Seattle, WA",Seattle,206-392-5040,Bradley D. Tilden,5931,814,9962,2931
+439,Old Republic International,8500,Financials,Insurance: Property and Casualty (Stock),"Chicago, IL",Chicago,312-346-8100,Aldo C. Zucaro,5901,466.9,18592,4472
+440,Lam Research,7500,Technology,Semiconductors and Other Electronic Components,"Fremont, CA",Fremont,510-572-0200,Martin B. Anstice,5886,914,12272,5895
+441,AK Steel Holding,8500,Materials,Metals,"West Chester, OH",West Chester,513-425-5000,Roger K. Newport,5883,-7.8,4036,-272
+442,Rockwell Automation,22000,Industrials,"Electronics, Electrical Equipment","Milwaukee, WI",Milwaukee,414-382-2000,Blake D. Moret,5880,729.7,7101,1990
+443,Adobe Systems,15706,Technology,Computer Software,"San Jose, CA",San Jose,408-536-6000,Shantanu Narayen,5854,1168.8,12707,7425
+444,Avon Products,26400,Household Products,Household and Personal Products,"Rye, NY",Rye,914-935-2000,Sherilyn S. McCoy,5853,-107.6,3419,-848
+445,Terex,18100,Industrials,Construction and Farm Machinery,"Westport, CT",Westport,203-222-7170,John L. Garrison Jr.,5841,-176.1,5007,1484.7
+446,NVR,4900,Engineering & Construction,Homebuilders,"Reston, VA",Reston,703-956-4000,Paul C. Saville,5835,425.3,2644,1304
+447,Dana,24900,Motor Vehicles & Parts,Motor Vehicles and Parts,"Maumee, OH",Maumee,419-887-3000,James K. Kamsickas,5826,640,4860,1157
+448,Realogy Holdings,11800,Financials,Real Estate,"Madison, NJ",Madison,973-407-2000,Richard A. Smith,5810,213,7421,2464
+449,American Tower,4507,Telecommunications,Telecommunications,"Boston, MA",Boston,617-375-7500,James D. Taiclet Jr.,5786,956.4,30879,6764
+450,Packaging Corp. of America,14000,Materials,"Packaging, Containers","Lake Forest, IL",Lake Forest,847-482-3000,Mark W. Kowlzan,5779,449.6,5777,1760
+451,Citizens Financial Group,17600,Financials,Commercial Banks,"Providence, RI",Providence,401-456-7000,Bruce W. Van Saun,5763,1045,149520,19747
+452,United Rentals,12500,Business Services,Miscellaneous,"Stamford, CT",Stamford,203-622-3131,Michael J. Kneeland,5762,566,11988,1648
+453,Clorox,8000,Household Products,Household and Personal Products,"Oakland, CA",Oakland,510-271-7000,Benno O. Dorer,5761,648,4518,297
+454,Genesis Healthcare,82000,Health Care,Health Care: Medical Facilities,"Kennett Square, PA",Kennett Square,610-444-6350,George V. Hager Jr.,5733,-64,5779,-490
+455,M&T Bank Corp.,16487,Financials,Commercial Banks,"Buffalo, NY",Buffalo,716-635-4000,Robert G. Wilmers,5722,1315.1,123449,16487
+456,Ingredion,11000,"Food, Beverages & Tobacco",Food Production,"Westchester, IL",Westchester,708-551-2600,Ilene S. Gordon,5704,484.9,5782,2565
+457,UGI,13105,Energy,Energy,"King of Prussia, PA",King of Prussia,610-337-1000,John L. Walsh,5686,364.7,10847,2851
+458,Owens Corning,16000,Materials,"Building Materials, Glass","Toledo, OH",Toledo,419-248-8000,Michael H. Thaman,5677,393,7741,3849
+459,S&P Global,20000,Business Services,Financial Data Services,"New York, NY",New York,212-438-1000,Douglas L. Peterson,5661,2106,8669,650
+460,Markel,10900,Financials,Insurance: Property and Casualty (Stock),"Glen Allen, VA",Glen Allen,804-747-0136,"Thomas S. Gayner, Richard R. Whitt III",5612,455.7,25875,8461
+461,Wyndham Worldwide,37800,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts","Parsippany, NJ",Parsippany,973-753-6000,Stephen P. Holmes,5599,611,9819,714
+462,Arthur J. Gallagher,24790,Financials,Diversified Financials,"Itasca, IL",Itasca,630-773-3800,J. Patrick Gallagher Jr.,5595,414.4,11490,3597
+463,Burlington Stores,40000,Retailing,Specialty Retailers: Apparel,"Burlington, NJ",Burlington,609-387-7800,Thomas A. Kingsbury,5591,215.9,2575,-50
+464,First American Financial,19531,Financials,Insurance: Property and Casualty (Stock),"Santa Ana, CA",Santa Ana,714-250-3000,Dennis J. Gilmore,5576,343,8832,3008
+465,Symantec,11000,Technology,Computer Software,"Mountain View, CA",Mountain View,650-527-8000,Gregory S. Clark,5568,2488,11767,3676
+466,Patterson,7000,Wholesalers,Wholesalers: Health Care,"St. Paul, MN",St. Paul,651-686-1600,James W. Wiltz,5555,187.2,3521,1442
+467,Olin,6400,Chemicals,Chemicals,"Clayton, MO",Clayton,314-480-1400,John E. Fischer,5551,-3.9,8763,2273
+468,NetApp,12030,Technology,Computer Peripherals,"Sunnyvale, CA",Sunnyvale,408-822-6000,George Kurian,5546,229,10037,2881
+469,Raymond James Financial,11900,Financials,Securities,"St. Petersburg, FL",St. Petersburg,727-567-1000,Paul C. Reilly,5520,529.4,31594,4914
+470,TravelCenters of America,20259,Retailing,Specialty Retailers: Other,"Westlake, OH",Westlake,440-808-9100,Thomas M. O'Brien,5511,-2,1660,552
+471,Fiserv,23000,Business Services,Financial Data Services,"Brookfield, WI",Brookfield,262-879-5000,Jeffery W. Yabuki,5505,930,9743,2541
+472,Host Hotels & Resorts,220,Financials,Real Estate,"Bethesda, MD",Bethesda,240-744-1000,James F. Risoleo,5488,762,11408,6994
+473,Insight Enterprises,5930,Wholesalers,Wholesalers: Electronics and Office Equipment,"Tempe, AZ",Tempe,480-333-3000,Kenneth T. Lamneck,5486,84.7,2219,713
+474,Mattel,32000,Household Products,"Toys, Sporting Goods","El Segundo, CA",El Segundo,310-252-2000,Margaret H. Georgiadis,5457,318,6494,2408
+475,AmTrust Financial Services,8000,Financials,Insurance: Property and Casualty (Stock),"New York, NY",New York,212-220-7120,Barry D. Zyskind,5451,411,22615,3269
+476,Cincinnati Financial,4754,Financials,Insurance: Property and Casualty (Stock),"Fairfield, OH",Fairfield,513-870-2000,Steven J. Johnston,5449,590.7,20386,7060
+477,Simon Property Group,4050,Financials,Real Estate,"Indianapolis, IN",Indianapolis,317-636-1600,David E. Simon,5435,1838.9,31104,4310
+478,Western Union,10700,Business Services,Financial Data Services,"Englewood, CO",Englewood,866-405-5012,Hikmet Ersek,5423,253.2,9420,902
+479,KeyCorp,15700,Financials,Commercial Banks,"Cleveland, OH",Cleveland,216-689-3000,Beth E. Mooney,5422,791,136453,15240
+480,Delek US Holdings,1326,Energy,Petroleum Refining,"Brentwood, TN",Brentwood,615-771-6701,Ezra Uzi Yemin,5414,-153.7,2985,992
+481,Booz Allen Hamilton Holding,22600,Technology,Information Technology Services,"McLean, VA",McLean,703-902-5000,Horacio D. Rozanski,5406,294.1,3010,409
+482,Chemours,7000,Chemicals,Chemicals,"Wilmington, DE",Wilmington,302-773-1000,Mark P. Vergnano,5400,7,6060,100
+483,Western & Southern Financial Group,2178,Financials,"Insurance: Life, Health (Mutual)","Cincinnati, OH",Cincinnati,513-629-1800,John F. Barrett,5398,241.2,43831,5104
+484,Celanese,7293,Chemicals,Chemicals,"Irving, TX",Irving,972-443-4000,Mark C. Rohr,5389,900,8357,2588
+485,Windstream Holdings,11870,Telecommunications,Telecommunications,"Little Rock, AR",Little Rock,501-748-7000,Anthony W. Thomas,5387,-383.5,11770,170
+486,Seaboard,11781,"Food, Beverages & Tobacco",Food Production,"Merriam, KS",Merriam,913-676-8800,Steven J. Bresky,5379,312,4755,3162
+487,Essendant,6600,Wholesalers,Wholesalers: Electronics and Office Equipment,"Deerfield, IL",Deerfield,847-627-7000,Robert B. Aiken Jr.,5369,63.9,2164,781
+488,Apache,3727,Energy,"Mining, Crude-Oil Production","Houston, TX",Houston,713-296-6000,John J. Christmann IV,5354,-1405,22519,6238
+489,Airgas,17000,Wholesalers,Wholesalers: Diversified,"Radnor, PA",Radnor,610-687-5253,John J. Christmann IV,5314,337.5,6135,2045
+490,Kelly Services,7500,Business Services,Temporary Help,"Troy, MI",Troy,248-362-4444,George S. Corona,5277,120.8,2028,1012
+491,Liberty Media,3626,Media,Entertainment,"Englewood, CO",Englewood,720-875-5400,Gregory B. Maffei,5276,680,31377,11756
+492,Rockwell Collins,19000,Aerospace & Defense,Aerospace and Defense,"Cedar Rapids, IA",Cedar Rapids,319-295-1000,Robert K. Ortberg,5259,728,7707,2078
+493,Robert Half International,16400,Business Services,Temporary Help,"Menlo Park, CA",Menlo Park,650-234-6000,Harold M. Messmer Jr.,5250,343.4,1778,1087
+494,CH2M Hill,20000,Engineering & Construction,"Engineering, Construction","Englewood, CO",Englewood,303-771-0900,Jacqueline C. Hinman,5236,15,2671,547
+495,Big Lots,23150,Retailing,Specialty Retailers: Other,"Columbus, OH",Columbus,614-278-6800,David J. Campisi,5200,152.8,1608,651
+496,Michaels Cos.,31000,Retailing,Specialty Retailers: Other,"Irving, TX",Irving,972-409-1300,Carl S. Rubin,5197,378.2,2148,-1698
+497,Toll Brothers,4200,Engineering & Construction,Homebuilders,"Horsham, PA",Horsham,215-938-8000,Douglas C. Yearley Jr.,5170,382.1,9737,4229
+498,Yahoo,8500,Technology,Internet Services and Retailing,"Sunnyvale, CA",Sunnyvale,408-349-3300,Marissa A. Mayer,5169,-214.3,48083,31049
+499,Vistra Energy,4431,Energy,Energy,"Dallas, TX",Dallas,214-812-4600,Curtis A. Morgan,5164,-214.3,15167,6597
+500,ABM Industries,110000,Business Services,Diversified Outsourcing Services,"New York, NY",New York,212-297-0200,Scott B. Salmirs,5145,57.2,2281,974
