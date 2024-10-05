@@ -12,10 +12,12 @@ Data source : https://www.kaggle.com/datasets/shaz13/fotune500-2017
 
 
 <h1><a name="projectobjectives">Project Structure</a></h1>
+
 - notebook.ipynb: Jupyter Notebook containing the Python code for data analysis.
 - README.md: Project overview and instructions for usage.
 
 <h1><a name="projectobjectives">Key Responsibilities</a></h1>
+
 - Analyze financial performance data of global companies across various sectors.
 - Develop insights from key metrics, including revenue, profits, and market capitalization.
 - Create data visualizations to effectively communicate findings and trends.
@@ -25,7 +27,8 @@ Data source : https://www.kaggle.com/datasets/shaz13/fotune500-2017
 
 
  <h1><a name="projectobjectives">Tools and Technologies</a></h1>
-- Python: Used for data analysis, manipulation, and visualization through libraries like Pandas and Matplotlib.
+ 
+- Python: Used for data analysis, manipulation and visualization through libraries like Pandas and Matplotlib.
 - Jupyter Notebook: Utilized for developing and documenting the data analysis workflow in an interactive environment.
 
 
