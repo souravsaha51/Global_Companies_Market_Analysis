@@ -1,7 +1,7 @@
 # Global Company Market Analysis
 
 <h1><a name="introduction">Overview</a></h1>
-<p>The project aims to analyze he financial and operational performance of top companies from various industries worldwide. By analyzing key metrics such as revenue, profits, market capitalization, number of employees and assets. This dataset is a valuable resource for analyzing the financial landscape and understanding the prominence of companies in the global market. Researchers, investors, and business enthusiasts can use this data to explore trends, make informed investment decisions, and gain insights into the economic contributions of these influential corporations. </p>
+<p>The project aims to analyze he financial and operational performance of top companies from various industries worldwide. By analyzing key metrics such as revenue, profits, market capitalization, number of employees and assets. This dataset is a valuable resource for analyzing the financial landscape and understanding the prominence of companies in the global market </p>
 
 
 <h1><a name="projectobjectives">Data Source</a></h1>
